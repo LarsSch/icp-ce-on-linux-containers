@@ -28,7 +28,7 @@
           build:
     box:
      id: ubuntu
-      tag: 16.04
+      tag: latest
     steps:
     - script:
         name: echo
